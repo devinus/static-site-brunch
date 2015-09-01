@@ -1,0 +1,38 @@
+{
+  "name": "static-site-brunch",
+  "version": "0.1.0",
+  "description": "Static site support for Brunch",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "async": "^1.4.2",
+    "yaml-front-matter": "^3.2.3",
+    "neo-async": "^1.4.1",
+    "glob": "^5.0.14",
+    "handlebars": "^4.0.0",
+    "mkdirp": "^0.5.1"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.3.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devinus/static-site-brunch.git"
+  },
+  "keywords": [
+    "static",
+    "brunch"
+  ],
+  "author": "Devin Torres <devin@devintorr.es>",
+  "license": "C0-1.0",
+  "bugs": {
+    "url": "https://github.com/devinus/static-site-brunch/issues"
+  },
+  "homepage": "https://github.com/devinus/static-site-brunch#readme"
+}
