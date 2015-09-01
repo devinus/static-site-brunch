@@ -1,5 +1,7 @@
 # static-site-brunch
 
+[![Build Status](https://travis-ci.org/devinus/static-site-brunch.svg?branch=master)](https://travis-ci.org/devinus/static-site-brunch)
+
 Static site support for [Brunch](http://brunch.io/).
 
 ## Install
