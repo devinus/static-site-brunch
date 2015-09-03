@@ -1,6 +1,6 @@
 {
   "name": "static-site-brunch",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Static site support for Brunch",
   "main": "index.js",
   "directories": {
